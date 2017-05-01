@@ -4,3 +4,5 @@
 ohayoudayo!!
 
 konnbannwa
+
+konnichiwa
