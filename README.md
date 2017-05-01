@@ -6,3 +6,5 @@ ohayoudayo!!
 konnbannwa
 
 konnichiwa
+
+oooooooo
