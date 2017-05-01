@@ -4,3 +4,5 @@
 ohayou
 
 konnbannwa
+
+konnichiwa
