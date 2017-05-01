@@ -1,7 +1,7 @@
 # remote_repository
 
 
-ohayoudayo!!
+ohayousan!!
 
 konnbannwa
 
